@@ -1,0 +1,1 @@
+# ModuleOshiBrc20Indexer
